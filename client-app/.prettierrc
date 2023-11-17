@@ -1,0 +1,9 @@
+{  "tabWidth": 2,
+  "semi": true,
+  "singleQuote": true,
+  "endOfLine": "auto",
+  "arrowParens": "avoid",
+  "bracketSameLine": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
+}
